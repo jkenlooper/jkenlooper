@@ -19,12 +19,23 @@ information on my reason to no longer host most of my projects on GitHub.
 
 ### Puzzle Massive
 
-The major project I started is [Puzzle Massive](https://puzzle.massive.xyz/). It
-has not been actively maintained and is a bit of a mess at the moment. I am
-mostly just cleaning it up in preparation of starting a new version of it and
-hosting that in [Codeberg]. For now, it will remain in GitHub land until
-I archive it.
+The major project I started in 2011 is [Puzzle Massive].  Version 2 of this
+project will stay on GitHub. It benefits from the visibility of being on GitHub
+and within the related GitHub topics. The _rewrite_ of Puzzle Massive (version
+3) is hosted at <https://git.sr.ht/~jkenlooper/puzzle-massive>.
 
+I am starting a new version 3 of Puzzle Massive which will not be compatible
+with version 2. It is mostly a rewrite; and yes, rewrites are generally a _bad_
+idea. This one, however, is justified because I don't have to keep the previous
+version running or maintained.
+
+The other projects that are directly jigsaw puzzle related ([piecemaker],
+[pixsaw]) will stay on GitHub and are not being rewritten. They would also
+largely become invisible to potential contributors if they were not on GitHub at
+this time.
 
 [Codeberg]: https://codeberg.org/
 [sourcehut]: https://sourcehut.org/
+[Puzzle Massive]: https://puzzle.massive.xyz/
+[piecemaker]: https://github.com/jkenlooper/piecemaker
+[pixsaw]: https://github.com/jkenlooper/pixsaw
