@@ -1,41 +1,34 @@
-### Web Developer
+## Web Developer
 
-I seem to enjoy building tools and hacking on personal projects that use those
-tools. I've built a few things in the past and some of those I actually try to
-maintain.
+Hi, I'm a web developer with quite a few years of experience in a wide range of
+technologies. I have worked with companies to help them update older
+applications and services and transition to different infrastructure. I've
+worked with teams to design and implement custom software solutions within
+reasonable time frames. At my current job, I'm able to continue building tools
+and services for a larger organization and enable software engineering teams to
+get stuff done.
 
-### Other Projects I Work On
+I started my current Software Engineer career as a self-taught Web Developer
+that ran a few websites for friends. Building websites and programming in Python
+was, and still is, a hobby of mine that I enjoy doing. All of my open source
+projects on GitHub, [Codeberg], and [sourcehut] are built because I had
+a problem I wanted to solve. I like creating and solving problems, which is
+probably why I enjoy programming.
 
-Most git projects that I have started and continue to maintain have moved to
-[sourcehut]: <https://git.sr.ht/~jkenlooper/>.
+## Puzzle Massive - Online Jigsaw Puzzles
 
-Some have moved to [Codeberg]: <https://codeberg.org/jkenlooper>
+My longest running side project is Puzzle Massive. It's currently at version
+3 and it's what I look forward to hacking on during my spare time. More details
+about the Puzzle Massive project are at my site:
+[https://massive.xyz/puzzle](https://massive.xyz/puzzle). I have also developed
+an open source tool to generate jigsaw puzzle pieces called [piecemaker] which
+Puzzle Massive uses.
 
-Most of the remaining active projects that I maintain in GitHub will eventually
-move. I no longer like the direction that GitHub is taking and prefer working
-with alternate git hosting websites like [sourcehut] and [Codeberg]. See the
-[Give Up GitHub!](https://sfconservancy.org/GiveUpGitHub/) article for more
-information on my reason to no longer host most of my projects on GitHub.
+## Other Projects
 
-### Puzzle Massive
-
-The major project I started in 2011 is [Puzzle Massive].  Version 2 of this
-project will stay on GitHub. It benefits from the visibility of being on GitHub
-and within the related GitHub topics. The _rewrite_ of Puzzle Massive (version
-3) is hosted at <https://git.sr.ht/~jkenlooper/puzzle-massive>.
-
-I am starting a new version 3 of Puzzle Massive which will not be compatible
-with version 2. It is mostly a rewrite; and yes, rewrites are generally a _bad_
-idea. This one, however, is justified because I don't have to keep the previous
-version running or maintained.
-
-The other projects that are directly jigsaw puzzle related ([piecemaker],
-[pixsaw]) will stay on GitHub and are not being rewritten. They would also
-largely become invisible to potential contributors if they were not on GitHub at
-this time.
+Checkout my other projects hosted on [sourcehut] at:
+[https://sr.ht/projects/~jkenlooper/](https://sr.ht/projects/~jkenlooper/)
 
 [Codeberg]: https://codeberg.org/
 [sourcehut]: https://sourcehut.org/
-[Puzzle Massive]: https://puzzle.massive.xyz/
 [piecemaker]: https://github.com/jkenlooper/piecemaker
-[pixsaw]: https://github.com/jkenlooper/pixsaw
