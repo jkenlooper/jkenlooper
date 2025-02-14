@@ -36,8 +36,15 @@ Puzzle Massive uses.
 
 ## Other Projects
 
-Checkout my other projects hosted on [sourcehut] at:
-[https://sr.ht/projects/~jkenlooper/](https://sr.ht/projects/~jkenlooper/)
+* [Red Button Trainer](https://codeberg.org/jkenlooper/red-button-trainer) - Production grade red button training for business critical applications.
+* [Chill](https://git.sr.ht/~jkenlooper/chill) - A database driven web
+    application framework in Flask.
+* [Vendor Grab](https://git.sr.ht/~jkenlooper/vendor-grab) - A simpler
+    alternative to npm when only needing some files from a remote tar archive.
+* [Chillbox](https://sr.ht/~jkenlooper/chillbox/) - Deployment scripts for
+    websites running on Alpine Linux or Debian servers.
+
+More of my projects are at [sourcehut](https://git.sr.ht/~jkenlooper/)
 
 [Codeberg]: https://codeberg.org/
 [sourcehut]: https://sourcehut.org/
