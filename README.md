@@ -1,5 +1,7 @@
 ## Web Developer
 
+[Portfolio of Jake Hickenlooper](https://massive.xyz/jake/)
+
 I'm a Web Developer that takes pride in creatively solving problems when it
 comes down to anything software related. I have learned the benefits of some
 frameworks versus others, and how well they do when it comes to maintaining
@@ -21,7 +23,7 @@ services, design graphics and user interfaces, manage data and ensure backup and
 recovery strategies are in place, and I try to keep my CSS skills sharp among
 all the endless things one needs to know in this field.
 
-All of my open source projects on GitHub, [Codeberg], and [sourcehut] are built
+All of my open source projects on GitHub, Codeberg, and sourcehut are built
 because I had a problem I wanted to solve. I like creating and solving problems,
 which is probably why I enjoy programming.
 
@@ -30,7 +32,7 @@ which is probably why I enjoy programming.
 My longest running side project is Puzzle Massive. It's currently at version
 3 and it's what I look forward to hacking on during my spare time. More details
 about the Puzzle Massive project are at my site:
-[https://massive.xyz/puzzle](https://massive.xyz/puzzle). I have also developed
+[https://massive.xyz/puzzle](https://massive.xyz/puzzle/). I have also developed
 an open source tool to generate jigsaw puzzle pieces called [piecemaker] which
 Puzzle Massive uses.
 
